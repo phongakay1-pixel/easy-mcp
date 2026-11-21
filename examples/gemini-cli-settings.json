@@ -1,0 +1,1 @@
+{"mcpServers":{"easy-mcp":{"headers":{"Authorization":"Bearer YOUR_EASY_MCP_TOKEN"},"httpUrl":"https://xxxx.trycloudflare.com/mcp","timeout":120000}}}
